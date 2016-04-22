@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{297DD2BD-ED9C-435F-BEBC-3250B044C444}</ProjectGuid>
+    <ProjectGuid>{6D803A6F-53D5-4835-A6B0-4EEAA64ECDAE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Learningcpp</RootNamespace>
+    <RootNamespace>Videolearning</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -149,17 +149,13 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hello World.cpp" />
-    <ClCompile Include="If statements.cpp" />
-    <ClCompile Include="Math with Variables.cpp" />
-    <ClCompile Include="Printing my name.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Volume of a pyramind.cpp" />
+    <ClCompile Include="Video learning.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
