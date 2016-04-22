@@ -38,5 +38,8 @@
     <ClCompile Include="Video 3 - Arithmetic operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Video 4 - Using int variables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

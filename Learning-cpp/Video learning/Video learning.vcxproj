@@ -158,6 +158,7 @@
     <ClCompile Include="Video 1.cpp" />
     <ClCompile Include="Video 2 - Escape sequences and commenting.cpp" />
     <ClCompile Include="Video 3 - Arithmetic operators.cpp" />
+    <ClCompile Include="Video 4 - Using int variables.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
