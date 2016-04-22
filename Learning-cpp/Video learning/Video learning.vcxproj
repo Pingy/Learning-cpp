@@ -155,7 +155,9 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Video learning.cpp" />
+    <ClCompile Include="Video 1.cpp" />
+    <ClCompile Include="Video 2 - Escape sequences and commenting.cpp" />
+    <ClCompile Include="Video 3 - Arithmetic operators.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
